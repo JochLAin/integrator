@@ -1,2 +1,2 @@
-# integrator
+# Integrator
 Integrations of projects
